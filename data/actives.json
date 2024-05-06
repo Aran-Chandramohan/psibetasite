@@ -1,24 +1,6 @@
 {
   "actives": [
     {
-      "img": "638.jpg",
-      "name": "Daniel Young",
-      "pin": "638",
-      "pledge_name": "Queen 🅱️",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Aerospace",
-      "officer_letters": "TT!"
-    },
-    {
-      "img": "654.jpg",
-      "name": "Sara Faulkner",
-      "pin": "654",
-      "pledge_name": "Tator Tot",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Biomedical",
-      "officer_letters": "YY! RR!"
-    },
-    {
       "img": "656.jpg",
       "name": "Harsha Rajesh",
       "pin": "656",
