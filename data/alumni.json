@@ -4415,6 +4415,14 @@
       "major": "Environmental"
     },
     {
+      "img": "678.jpg",
+      "name": "Purva Kantawala",
+      "pin": "678",
+      "pledge_name": "Peach Bellini",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Electrical"
+    },
+    {
       "img": "679.jpg",
       "name": "Nick Nola",
       "pin": "679",
@@ -4439,6 +4447,14 @@
       "major": "Biomedial"
     },
     {
+      "img": "684.jpg",
+      "name": "Nathan Cervantes",
+      "pin": "684",
+      "pledge_name": "Yagoobian",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Civil"
+    },
+    {
       "img": "685.jpg",
       "name": "Alyssa Ishida",
       "pin": "685",
@@ -4454,6 +4470,15 @@
       "pledge_class": "Sigma Gamma S'22",
       "major": "Aerospace",
       "officer_letters": "RR!"
+    },
+    {
+
+      "img": "691.jpg",
+      "name": "Josh Joseph",
+      "pin": "691",
+      "pledge_name": "Gladiator",
+      "pledge_class": "Sigma Gamma S'22",
+      "major": "Civil"
     },
     {
       "img": "692.jpg",
@@ -4512,12 +4537,60 @@
       "major": "Chemical"
     },
     {
+      "img": "712.jpg",
+      "name": "Abdullah Alzahrani",
+      "pin": "712",
+      "pledge_name": "Howler Head Whiskey",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Petroleum"
+    },
+    {
+      "img": "714.jpg",
+      "name": "Grant Robinett",
+      "pin": "714",
+      "pledge_name": "Alright, Alright, Alright...",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Computational"
+    },
+    {
       "img": "716.jpg",
       "name": "Caiden Campbell",
       "pin": "716",
       "pledge_name": "Eyebrows",
       "pledge_class": "Tau Gamma F'22",
       "major": "Chemical"
+    },
+    {
+      "img": "720.jpg",
+      "name": "Luke Nelson",
+      "pin": "720",
+      "pledge_name": "California Dreamin",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Chemical"
+    },
+    {
+      "img": "721.jpg",
+      "name": "Haley Hernandez",
+      "pin": "721",
+      "pledge_name": "Tequila Sunrise",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Architectural"
+    },
+    {
+      "img": "722.jpg",
+      "name": "Lizzy Young",
+      "pin": "722",
+      "pledge_name": "I'm Batman",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Biomedical"
+    },
+    {
+      "img": "723.jpg",
+      "name": "Ronald Cristino",
+      "pin": "723",
+      "pledge_name": "Puss in Boots",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Architectural"
     },
     {
       "img": "728.jpg",
@@ -4527,6 +4600,14 @@
       "pledge_class": "Upsilon Gamma S'23",
       "major": "Biomedical",
       "officer_letters": "UU!"
+    },
+    {
+      "img": "731.jpg",
+      "name": "Ailene Castillo",
+      "pin": "731",
+      "pledge_name": "Catdog",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Architectural"
     },
     {
       "img": "735.jpg",
