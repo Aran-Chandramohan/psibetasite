@@ -1,24 +1,6 @@
 {
   "actives": [
     {
-      "img": "656.jpg",
-      "name": "Harsha Rajesh",
-      "pin": "656",
-      "pledge_name": "Pizza Nut",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Aerospace",
-      "officer_letters": "TT! RR!"
-    },
-    {
-      "img": "657.jpg",
-      "name": "Layan Al Hasan",
-      "pin": "657",
-      "pledge_name": "Creme, Brute?",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Chemical",
-      "officer_letters": "YY!"
-    },
-    {
       "img": "658.jpg",
       "name": "Neel Patel",
       "pin": "658",
@@ -49,24 +31,6 @@
       "pledge_name": "“That isn’t even a dinosaur” - Zachary Lopez",
       "pledge_class": "Rho Gamma F'21",
       "major": "Electrical"
-    },
-    {
-      "img": "josh.jpg",
-      "name": "Sachin Nair",
-      "pin": "668",
-      "pledge_name": "Sid Thee Stallion",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Electrical",
-      "officer_letters": "0x2222 XX!"
-    },
-    {
-      "img": "669.jpg",
-      "name": "Courtney Kang",
-      "pin": "669",
-      "pledge_name": "Ammonium thioglycolate",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Environmental",
-      "officer_letters": "UU! WW! XX!"
     },
     {
       "img": "670.jpg",
@@ -282,14 +246,6 @@
       "officer_letters": "Z!"
     },
      {
-      "img": "716.jpg",
-      "name": "Caiden Campbell",
-      "pin": "716",
-      "pledge_name": "Eyebrows",
-      "pledge_class": "Tau Gamma F'22",
-      "major": "Chemical"
-    },
-     {
       "img": "717.jpg",
       "name": "Nikunj Zamwar",
       "pin": "717",
@@ -378,15 +334,7 @@
       "pledge_class": "Upsilon Gamma S'23",
       "major": "Mechanical"
     },
-     {
-      "img": "728.jpg",
-      "name": "Anna Spuskanyuk",
-      "pin": "728",
-      "pledge_name": "Mad Minutes, the minute timed multiplication tables you get in elementary school.",
-      "pledge_class": "Upsilon Gamma S'23",
-      "major": "Biomedical",
-      "officer_letters": "UU!"
-    },
+     
      {
       "img": "729.jpg",
       "name": "Yash Mittal",
@@ -438,14 +386,6 @@
       "major": "Civil"
     },
      {
-      "img": "735.jpg",
-      "name": "Robin Cartwright",
-      "pin": "735",
-      "pledge_name": "Bigfoot",
-      "pledge_class": "Phi Gamma F'23",
-      "major": "Aerospace"
-    },
-     {
       "img": "736.jpg",
       "name": "Maya Koppikar",
       "pin": "736",
@@ -479,14 +419,7 @@
       "pledge_class": "Phi Gamma F'23",
       "major": "Chemical"
     },
-     {
-      "img": "740.jpg",
-      "name": "Mohammed Alamoudi",
-      "pin": "740",
-      "pledge_name": "23andMe",
-      "pledge_class": "Phi Gamma F'23",
-      "major": "Biomedical"
-    },
+     
      {
       "img": "741.jpg",
       "name": "Avani Desai",
@@ -527,14 +460,6 @@
       "pledge_class": "Phi Gamma F'23",
       "major": "Electrical",
       "officer_letters": "V!"
-    },
-     {
-      "img": "746.jpg",
-      "name": "Innes McNaughton",
-      "pin": "746",
-      "pledge_name": "vodka martini, shaken not stirred",
-      "pledge_class": "Phi Gamma F'23",
-      "major": "Aerospace"
     },
      {
       "img": "747.jpg",
