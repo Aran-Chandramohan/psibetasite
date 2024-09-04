@@ -4356,12 +4356,28 @@
       "major": "Biomedical"
     },
     {
+      "img": "662.jpg",
+      "name": "Hannah Boucher",
+      "pin": "662",
+      "pledge_name": "GUMGUM",
+      "pledge_class": "Pi Gamma S'21",
+      "major": "Mechanical"
+    },
+    {
       "img": "663.jpg",
       "name": "Pooja Vedam",
       "pin": "663",
       "pledge_name": "Mr.Moseby",
       "pledge_class": "Pi Gamma S'21",
       "major": "Chemical"
+    },
+    {
+      "img": "667.jpg",
+      "name": "Caleb Domingue",
+      "pin": "667",
+      "pledge_name": "“That isn’t even a dinosaur” - Zachary Lopez",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Electrical"
     },
     {
       "img": "josh.jpg",
@@ -4463,6 +4479,22 @@
       "officer_letters": "RR!"
     },
     {
+      "img": "689.jpg",
+      "name": "Bel Soto",
+      "pin": "689",
+      "pledge_name": "Lizard",
+      "pledge_class": "Sigma Gamma S'22",
+      "major": "Architectural"
+    },
+    {
+      "img": "690.jpg",
+      "name": "Hanjing Chen",
+      "pin": "690",
+      "pledge_name": "Scholastic Book Fair",
+      "pledge_class": "Sigma Gamma S'22",
+      "major": "Chemical"
+    },
+    {
 
       "img": "691.jpg",
       "name": "Josh Joseph",
@@ -4518,6 +4550,22 @@
       "pledge_name": "Mary Poppins",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Chemical"
+    },
+    {
+      "img": "702.jpg",
+      "name": "Sam Miller",
+      "pin": "702",
+      "pledge_name": "Razzmatazz",
+      "pledge_class": "Sigma Gamma S'22",
+      "major": "Civil"
+    },
+    {
+      "img": "709.jpg",
+      "name": "Andrew Cook",
+      "pin": "709",
+      "pledge_name": "🅱️ig Dipper",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Aerospace"
     },
     {
       "img": "710.jpg",
@@ -4591,6 +4639,14 @@
       "pledge_class": "Upsilon Gamma S'23",
       "major": "Biomedical",
       "officer_letters": "UU!"
+    },
+    {
+      "img": "730.jpg",
+      "name": "Talia Delambre",
+      "pin": "730",
+      "pledge_name": "Chicken and Waffles",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Biomedical"
     },
     {
       "img": "731.jpg",
