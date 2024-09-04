@@ -1,6 +1,15 @@
 {
   "actives": [
     {
+      "img": "654.jpg",
+      "name": "Sara Faulkner",
+      "pin": "654",
+      "pledge_name": "Tator Tot",
+      "pledge_class": "Pi Gamma S'21",
+      "major": "Biomedical",
+      "officer_letters": "YYY! RRR!"
+    },
+    {
       "img": "658.jpg",
       "name": "Neel Patel",
       "pin": "658",
