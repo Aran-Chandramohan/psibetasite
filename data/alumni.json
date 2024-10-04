@@ -4438,6 +4438,15 @@
       "major": "Environmental"
     },
     {
+      "img": "680.jpg",
+      "name": "Chloe Posluszny",
+      "pin": "680",
+      "pledge_name": "Wow!",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Electrical",
+      "officer_letters": "0x80085"
+    },
+    {
       "img": "681U.jpg",
       "name": "Jack Fishbaugh",
       "pin": "681",
@@ -4630,6 +4639,14 @@
       "pledge_name": "Puss in Boots",
       "pledge_class": "Upsilon Gamma S'23",
       "major": "Architectural"
+    },
+    {
+      "img": "727.jpg",
+      "name": "Shruthi Dandamundi",
+      "pin": "727",
+      "pledge_name": "Cats (2019 Film)",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Mechanical"
     },
     {
       "img": "728.jpg",
