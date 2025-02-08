@@ -103,7 +103,7 @@
       "pledge_name": "Is water wet?",
       "pledge_class": "Phi Gamma F'23",
       "major": "Chemical",
-      "officer_letters": "TT! 0x____",
+      "officer_letters": "TT! 0x76",
       "email": "thetatau.psibeta.web@gmail.com",
       "email-name": "thetatau.psibeta.web@gmail.com",
       "position": "Webmaster"
@@ -235,17 +235,7 @@
       "email": "#",
       "email-name": "",
       "position": "Cockrell Relations"
-    },
-    {
-      "img": "738_Small.jpg",
-      "name": "V Dharmalingam",
-      "pin": "738",
-      "pledge_name": "Is water wet?",
-      "pledge_class": "Phi Gamma F'23",
-      "major": "Chemical",
-      "officer_letters": "TT! 0x!!!!",
-      "position": "Photography"
-    }
+    },    
     {
       "img": "759.jpg",
       "name":"Ana Paola Cerda",
@@ -258,6 +248,24 @@
       "email-name": "",
       "position": "Social Media"
     }
-   }
+    {
+      "img": "738_Small.jpg",
+      "name": "V Dharmalingam",
+      "pin": "738",
+      "pledge_name": "Is water wet?",
+      "pledge_class": "Phi Gamma F'23",
+      "major": "Chemical",
+      "officer_letters": "TT! 0x76",
+      "position": "Photography"
+    }    
+    {
+      "img": "v's tripod.jpg",
+      "name": "V's tripod",
+      "pin": "3",
+      "pledge_name": "Scooby",
+      "pledge_class": "Tri Gamma F'23",
+      "major": "film",
+      "position": "stand"
+    }
   ]
 }
