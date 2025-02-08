@@ -4348,6 +4348,14 @@
       "officer_letters": "YY!"
     },
     {
+      "img": "658.jpg",
+      "name": "Neel Patel",
+      "pin": "658",
+      "pledge_name": "$GME",
+      "pledge_class": "Pi Gamma S'21",
+      "major": "Chemical"
+    },
+    {
       "img": "659.jpg",
       "name": "Ethan Connett",
       "pin": "659",
@@ -4370,6 +4378,14 @@
       "pledge_name": "Mr.Moseby",
       "pledge_class": "Pi Gamma S'21",
       "major": "Chemical"
+    },
+    {
+      "img": "665.jpg",
+      "name": "Chris An",
+      "pin": "665",
+      "pledge_name": "Is She Even Italian?",
+      "pledge_class": "Pi Gamma S'21",
+      "major": "Mechanical"
     },
     {
       "img": "667.jpg",
@@ -4585,6 +4601,15 @@
       "major": "Chemical"
     },
     {
+      "img": "711.jpg",
+      "name": "Murtaza Jetpurwala",
+      "pin": "711",
+      "pledge_name": "28865 Birnham Woods Dr",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Electrical",
+      "officer_letters": "YY!"
+    },
+    {
       "img": "712.jpg",
       "name": "Abdullah Alzahrani",
       "pin": "712",
@@ -4641,6 +4666,14 @@
       "major": "Architectural"
     },
     {
+      "img": "725.jpg",
+      "name": "Karina Ambani",
+      "pin": "725",
+      "pledge_name": "&",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Biomedical"
+    },
+    {
       "img": "727.jpg",
       "name": "Shruthi Dandamundi",
       "pin": "727",
@@ -4674,6 +4707,14 @@
       "major": "Architectural"
     },
     {
+      "img": "732.jpg",
+      "name": "Rurico Gutierrez",
+      "pin": "732",
+      "pledge_name": "🅱️oomer",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Biomedical"
+    },
+    {
       "img": "735.jpg",
       "name": "Robin Cartwright",
       "pin": "735",
@@ -4696,6 +4737,22 @@
       "pledge_name": "vodka martini, shaken not stirred",
       "pledge_class": "Phi Gamma F'23",
       "major": "Aerospace"
-    }
+    },
+    {
+      "img": "748.jpg",
+      "name": "Vanessa Brooks",
+      "pin": "748",
+      "pledge_name": "Pinto XXVII",
+      "pledge_class": "Phi Gamma F'23",
+      "major": "Civil"
+    },
+    {
+      "img": "753.jpg",
+      "name": "Farrah Faheem",
+      "pin": "753",
+      "pledge_name": "rip steve irwin❤️",
+      "pledge_class": "Phi Gamma F'23",
+      "major": "Civil"
+    },
   ]
 }
