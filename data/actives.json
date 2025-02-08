@@ -9,23 +9,7 @@
       "major": "Biomedical",
       "officer_letters": "YYY! RRR!"
     },
-    {
-      "img": "658.jpg",
-      "name": "Neel Patel",
-      "pin": "658",
-      "pledge_name": "$GME",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Chemical"
-    },
-    
-    {
-      "img": "665.jpg",
-      "name": "Chris An",
-      "pin": "665",
-      "pledge_name": "Is She Even Italian?",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Mechanical"
-    },
+        
     {
       "img": "670.jpg",
       "name": "Alex Wong",
@@ -35,6 +19,7 @@
       "major": "Civil",
       "officer_letters": "TT! W!"
     },
+    
     {
       "img": "671.jpg",
       "name": "Maddie McGinnis",
@@ -44,6 +29,7 @@
       "major": "Architectural",
       "officer_letters": "WW!"
     },
+    
     {
       "img": "675.jpg",
       "name": "Anaita Merchant",
@@ -52,6 +38,7 @@
       "pledge_class": "Rho Gamma F'21",
       "major": "Mechanical"
     },
+    
     {
       "img": "676.jpg",
       "name": "Ashton Cole",
@@ -61,6 +48,7 @@
       "major": "Aerospace",
       "officer_letters": "RR! VV!"
     },
+    
     {
       "img": "677.jpg",
       "name": "Pablo Sosa",
@@ -133,15 +121,6 @@
       "officer_letters": "TT!"
     },
      {
-      "img": "711.jpg",
-      "name": "Murtaza Jetpurwala",
-      "pin": "711",
-      "pledge_name": "28865 Birnham Woods Dr",
-      "pledge_class": "Tau Gamma F'22",
-      "major": "Electrical",
-      "officer_letters": "YY!"
-    },
-     {
       "img": "713.jpg",
       "name": "Misty Dvorak",
       "pin": "713",
@@ -191,14 +170,6 @@
       "major": "Electrical"
     },
      {
-      "img": "725.jpg",
-      "name": "Karina Ambani",
-      "pin": "725",
-      "pledge_name": "&",
-      "pledge_class": "Upsilon Gamma S'23",
-      "major": "Biomedical"
-    },
-     {
       "img": "726.jpg",
       "name": "Cameron Kettler",
       "pin": "726",
@@ -215,14 +186,6 @@
       "pledge_class": "Upsilon Gamma S'23",
       "major": "Electrical",
       "officer_letters": "0x9876"
-    },
-     {
-      "img": "732.jpg",
-      "name": "Rurico Gutierrez",
-      "pin": "732",
-      "pledge_name": "🅱️oomer",
-      "pledge_class": "Upsilon Gamma S'23",
-      "major": "Biomedical"
     },
      {
       "img": "733.jpg",
@@ -328,14 +291,6 @@
       "major": "Biomedical"
     },
      {
-      "img": "748.jpg",
-      "name": "Vanessa Brooks",
-      "pin": "748",
-      "pledge_name": "Pinto XXVII",
-      "pledge_class": "Phi Gamma F'23",
-      "major": "Civil"
-    },
-     {
       "img": "750.jpg",
       "name": "Vignesh Winner",
       "pin": "750",
@@ -418,6 +373,7 @@
       "major": "Environmental"
       "officer_letters": "U!"
     },
+    
     {
       "img": "760.jpg",
       "name":"Radha Mistry",
@@ -426,6 +382,7 @@
       "pledge_class": "Chi Gamma S'24",
       "major": "Civil"
     },
+    
     {
       "img": "761.jpg",
       "name":"Sankalp Srinatha",
@@ -434,6 +391,7 @@
       "pledge_class": "Chi Gamma S'24",
       "major": "Aerospace"
     },
+    
     {
       "img": "762.jpg",
       "name":"Rafael Thome",
@@ -442,6 +400,7 @@
       "pledge_class": "Chi Gamma S'24",
       "major": "Civil"
     },
+    
     {
       "img": "763.jpg",
       "name":"Akash Gupta",
@@ -450,6 +409,7 @@
       "pledge_class": "Chi Gamma S'24",
       "major": "Biomedical"
     },
+    
     {
       "img": "764.jpg",
       "name":"Om Vadodaria",
@@ -458,6 +418,7 @@
       "pledge_class": "Chi Gamma S'24",
       "major": "Biomedical"
     },
+    
     {
       "img": "765.jpg",
       "name":"Neil Thomas",
@@ -465,7 +426,8 @@
       "pledge_name": "I shall call him squishy.",
       "pledge_class": "Chi Gamma S'24",
       "major": "Biomedical"
-    }
+    },
+    
     {
       "img": "766.jpg",
       "name":"Bryan Liang",
@@ -473,7 +435,8 @@
       "pledge_name": "You Don't Own Me",
       "pledge_class": "Psi Gamma F'24",
       "major": "Mechanical"
-    }
+    },
+    
     {
       "img": "767.jpg",
       "name":"Mary Springer",
@@ -481,7 +444,8 @@
       "pledge_name": "Courage the Cowardly Dog",
       "pledge_class": "Psi Gamma F'24",
       "major": "Environmental"
-    }
+    },
+    
     {
       "img": "768.jpg",
       "name":"Rohan Malhotra",
@@ -489,7 +453,8 @@
       "pledge_name": "Hi Barbie",
       "pledge_class": "Psi Gamma F'24",
       "major": "Environmental"
-    }
+    },
+    
     {
       "img": "769.jpg",
       "name":"Kristin McDonald",
@@ -497,7 +462,8 @@
       "pledge_name": "Gucci Flip Flops",
       "pledge_class": "Psi Gamma F'24",
       "major": "Biomedical"
-    }
+    },
+    
     {
       "img": "770.jpg",
       "name":"Matthew  Lee",
@@ -505,7 +471,8 @@
       "pledge_name": "Trisha Paytas",
       "pledge_class": "Psi Gamma F'24",
       "major": "Mechanical"
-    }
+    },
+    
     {
       "img": "771.jpg",
       "name":"Vivaan Rupani",
@@ -513,7 +480,8 @@
       "pledge_name": ";",
       "pledge_class": "Psi Gamma F'24",
       "major": "Aerospace"
-    }
+    },
+    
     {
       "img": "772.jpg",
       "name":"Brandon Gibson",
@@ -521,7 +489,8 @@
       "pledge_name": "Scandoval",
       "pledge_class": "Psi Gamma F'24",
       "major": "Environmental"
-    }
+    },
+    
     {
       "img": "773.jpg",
       "name":"Parin Patel",
@@ -529,7 +498,8 @@
       "pledge_name": "Zoo Wee Mama",
       "pledge_class": "Psi Gamma F'24",
       "major": "Electrical"
-    }
+    },
+    
     {
       "img": "774.jpg",
       "name":"Arty Lyssenko",
@@ -537,7 +507,8 @@
       "pledge_name": "🅱️ig 🅱️en",
       "pledge_class": "Psi Gamma F'24",
       "major": "Petroleum"
-    }
+    },
+    
     {
       "img": "775.jpg",
       "name":"Colin D'Souza",
@@ -545,7 +516,8 @@
       "pledge_name": "Whateva I do what I want",
       "pledge_class": "Psi Gamma F'24",
       "major": "Mechanical"
-    }
+    },
+    
     {
       "img": "776.jpg",
       "name":"Javier Ferrer Sánchez-Barcaiztegui",
@@ -553,7 +525,8 @@
       "pledge_name": "Shecago",
       "pledge_class": "Psi Gamma F'24",
       "major": "Electrical"
-    }
+    },
+    
     {
       "img": "777.jpg",
       "name":"Austin Brown",
