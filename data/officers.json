@@ -123,7 +123,6 @@
       "position": "Brotherhood"
     },
     {
-      "img": "754_small.jpg",
       "img": "708.jpg",
       "name": "Ami Bhakta",
       "pin": "708",
@@ -219,7 +218,7 @@
       "pin": "755",
       "pledge_name": "Petey Piranha",
       "pledge_class": "Chi Gamma S'24",
-      "major": "Aerospace"
+      "major": "Aerospace",
       "officer_letters": "R!",
       "email": "#",
       "email-name": "",
@@ -256,6 +255,8 @@
       "pledge_class": "Phi Gamma F'23",
       "major": "Chemical",
       "officer_letters": "TT! 0x76",
+      "email": "#",
+      "email-name": "",
       "position": "Photography"
     },    
     {
@@ -265,6 +266,8 @@
       "pledge_name": "Scooby",
       "pledge_class": "Tri Gamma F'23",
       "major": "film",
+      "email": "gmail@tripod.com",
+      "email-name": "Work",
       "position": "stand"
     }
   ]
