@@ -4778,5 +4778,122 @@
       "pledge_class": "Chi Gamma S'24",
       "major": "Civil"
     }
+    {
+      "img": "654.jpg",
+      "name": "Sara Faulkner",
+      "pin": "654",
+      "pledge_name": "Tator Tot",
+      "pledge_class": "Pi Gamma S'21",
+      "major": "Biomedical",
+      "officer_letters": "YYY! RRR!"
+    },
+    {
+      "img": "670.jpg",
+      "name": "Alex Wong",
+      "pin": "670",
+      "pledge_name": "Historically Close Friends",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Civil",
+      "officer_letters": "TT! WW!"
+    },
+    {
+      "img": "671.jpg",
+      "name": "Maddie McGinnis",
+      "pin": "671",
+      "pledge_name": "“I have the power of god AND chicken on my side”",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Architectural",
+      "officer_letters": "WW!"
+    },
+    {
+      "img": "675.jpg",
+      "name": "Anaita Merchant",
+      "pin": "675", 
+      "pledge_name": "Experiment 626",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Mechanical"
+    },
+    {
+      "img": "677.jpg",
+      "name": "Pablo Sosa",
+      "pin": "677",
+      "pledge_name": "Hot Rod",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Civil",
+      "officer_letters": "RR!"
+    },
+    {
+      "img": "699.jpg",
+      "name": "Sanjana Chemuturi",
+      "pin": "699",
+      "pledge_name": "Ford F150 Lightning Edition",
+      "pledge_class": "Sigma Gamma S'22",
+      "major": "Biomedical"
+    },
+    {
+      "img": "704.jpg",
+      "name": "Ben Parent",
+      "pin": "704",
+      "pledge_name": "Inertia is A Property of Matter",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Mechanical",
+      "officer_letters": "0x5280"
+    },
+    {
+      "img": "736.jpg",
+      "name": "Maya Koppikar",
+      "pin": "736",
+      "pledge_name": "EM 311M",
+      "pledge_class": "Phi Gamma F'23",
+      "major": "Electrical"
+    },
+    {
+      "img": "742.jpg",
+      "name": "Jacobé Ellison",
+      "pin": "742",
+      "pledge_name": "Paper Straws",
+      "pledge_class": "Phi Gamma F'23",
+      "major": "Mechanical"
+    },
+    {
+      "img": "752.jpg",
+      "name": "Austin Gabriel",
+      "pin": "752",
+      "pledge_name": "🅱️P Oil Spill™",
+      "pledge_class": "Phi Gamma F'23",
+      "major": "Aerospace"
+    }, 
+    {
+      "img": "764.jpg",
+      "name":"Om Vadodaria",
+      "pin": "764",
+      "pledge_name": "Sponchbob",
+      "pledge_class": "Chi Gamma S'24",
+      "major": "Biomedical"
+    },
+    {
+      "img": "765.jpg",
+      "name":"Neil Thomas",
+      "pin": "765",
+      "pledge_name": "I shall call him squishy.",
+      "pledge_class": "Chi Gamma S'24",
+      "major": "Biomedical"
+    },
+    {
+      "img": "767.jpg",
+      "name":"Mary Springer",
+      "pin": "767",
+      "pledge_name": "Courage the Cowardly Dog",
+      "pledge_class": "Psi Gamma F'24",
+      "major": "Environmental"
+    },
+    {
+      "img": "776.jpg",
+      "name":"Javier Ferrer Sánchez-Barcaiztegui",
+      "pin": "776",
+      "pledge_name": "Shecago",
+      "pledge_class": "Psi Gamma F'24",
+      "major": "Electrical"
+    },
   ]
 }
