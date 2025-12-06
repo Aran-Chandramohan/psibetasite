@@ -157,17 +157,6 @@
       "position": "Professional Development"
     },
     {
-      "img": "767.jpg",
-      "name":"Mary Springer",
-      "pin": "767",
-      "pledge_name": "Courage the Cowardly Dog",
-      "pledge_class": "Psi Gamma F'24",
-      "major": "Environmental",
-      "email": "#",
-      "email-name": "",
-      "position": "Professional Development"
-    },
-    {
       "img": "745.jpg",
       "name": "Kat Harper",
       "pin": "745",
@@ -248,7 +237,7 @@
       "position": "Social Media"
     },
     {
-      "img": "738l.jpg",
+      "img": "738.jpg",
       "name": "V Dharmalingam",
       "pin": "738",
       "pledge_name": "Is water wet?",
@@ -260,7 +249,7 @@
       "position": "Photography"
     },    
     {
-      "img": "v's tripod.jpg",
+      "img": "vs_tripod.jpg",
       "name": "V's tripod",
       "pin": "three",
       "pledge_name": "Scooby",
