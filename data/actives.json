@@ -107,7 +107,7 @@
       "major": "Electrical"
     },
      {
-      "img": "743.jpg",
+      "img": "missing.jpg",
       "name": "Mia Bar-Yadin",
       "pin": "743",
       "pledge_name": "Perfectly Balanced, As All Things Should Be.",
@@ -345,6 +345,48 @@
       "pledge_name": "🅱️lue Tea",
       "pledge_class": "Omega Gamma S'25",
       "major": "Civil"
+    },
+    {
+      "img": "782.jpg",
+      "name":"Mia Obid ",
+      "pin": "782",
+      "pledge_name": "I’m Just Ken",
+      "pledge_class": "Omega Gamma S'25",
+      "major": "Civil"
+    },
+    {
+      "img": "783.jpg",
+      "name":"Saranya Rajan",
+      "pin": "783",
+      "pledge_name": "Lake Travis",
+      "pledge_class": "Omega Gamma S'25",
+      "major": "Chemical"
+    },
+    {
+      "img": "missing.jpg",
+      "name":"Gabby Librea",
+      "pin": "784",
+      "pledge_name": "Amy Schumer",
+      "pledge_class": "Omega Gamma S'25",
+      "major": "Civil"
+    },
+    {
+      "img": "785.jpg",
+      "name":"Bobby Stephens III",
+      "pin": "785",
+      "pledge_name": "Family Guy Funny Moments #62",
+      "pledge_class": "Omega Gamma S'25",
+      "major": "Chemical"
+    },
+    {
+      "img": "787.jpg",
+      "name":"Isabella Bechtold",
+      "pin": "787",
+      "pledge_name": "Esnupi",
+      "pledge_class": "Omega Gamma S'25",
+      "major": "Biomedical"
     }
+    
+    
   ]
 }
