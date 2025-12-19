@@ -1,5 +1,11 @@
-<!-- ================= CORPORATE SPONSORSHIP ================= -->
-<div class="support-card" id="corporate">
+<!-- ================= CORPORATE SPONSORSHIP (SITE-MATCHING) ================= -->
+
+<!-- Page Title + site-style separator -->
+<h1 style="color:black; margin-top: 70px;">Corporate Sponsors & Alumni Donations</h1>
+<hr class="line">
+
+<!-- Corporate Section -->
+<div id="corporate" class="bodytext" style="margin-bottom: 30px;">
 
     <h2 style="color:black;"><i class="fa fa-building"></i> Corporate Sponsorship</h2>
     <p style="color:black;">
@@ -12,7 +18,7 @@
 
         <div class="col-md-4">
             <div class="tier">
-                <h3 style="color:#6c7a89; text-align:center;">Silver — $100+</h3>
+                <h3 class="tier-title tier-silver">Silver — $100+</h3>
                 <ul style="color:black;">
                     <li>Your logo featured on our website</li>
                     <li>Featured in our newsletter</li>
@@ -23,7 +29,7 @@
 
         <div class="col-md-4">
             <div class="tier">
-                <h3 style="color:#f39c12; text-align:center;">Gold — $200+</h3>
+                <h3 class="tier-title tier-gold">Gold — $200+</h3>
                 <ul style="color:black;">
                     <li>Your logo featured on our website</li>
                     <li>Featured in our newsletter</li>
@@ -36,7 +42,7 @@
 
         <div class="col-md-4">
             <div class="tier">
-                <h3 style="color:#34495e; text-align:center;">Platinum — $500+</h3>
+                <h3 class="tier-title tier-plat">Platinum — $500+</h3>
                 <ul style="color:black;">
                     <li>Your logo featured on our website</li>
                     <li>Featured in our newsletter</li>
@@ -50,7 +56,7 @@
 
     </div>
 
-    <hr>
+    <hr class="line">
 
     <!-- LOGO GRID -->
     <h3 style="color:black; text-align:center;">Our Sponsors</h3>
@@ -62,7 +68,7 @@
     <h4 style="color:black; margin-top:25px;"><strong>Platinum Sponsors</strong></h4>
     <div class="row sponsor-grid">
         <div class="col-xs-6 col-sm-4 col-md-3">
-            <a class="sponsor-logo" href="#" target="_blank">
+            <a class="sponsor-logo" href="#" target="_blank" title="Platinum Sponsor">
                 <img src="img/sponsors/placeholder.png" alt="Platinum Sponsor Logo">
             </a>
         </div>
@@ -72,12 +78,12 @@
     <h4 style="color:black; margin-top:20px;"><strong>Gold Sponsors</strong></h4>
     <div class="row sponsor-grid">
         <div class="col-xs-6 col-sm-4 col-md-3">
-            <a class="sponsor-logo" href="#" target="_blank">
+            <a class="sponsor-logo" href="#" target="_blank" title="Gold Sponsor">
                 <img src="img/sponsors/placeholder.png" alt="Gold Sponsor Logo">
             </a>
         </div>
         <div class="col-xs-6 col-sm-4 col-md-3">
-            <a class="sponsor-logo" href="#" target="_blank">
+            <a class="sponsor-logo" href="#" target="_blank" title="Gold Sponsor">
                 <img src="img/sponsors/placeholder.png" alt="Gold Sponsor Logo">
             </a>
         </div>
@@ -87,18 +93,18 @@
     <h4 style="color:black; margin-top:20px;"><strong>Silver Sponsors</strong></h4>
     <div class="row sponsor-grid">
         <div class="col-xs-6 col-sm-4 col-md-3">
-            <a class="sponsor-logo" href="#" target="_blank">
+            <a class="sponsor-logo" href="#" target="_blank" title="Silver Sponsor">
                 <img src="img/sponsors/placeholder.png" alt="Silver Sponsor Logo">
             </a>
         </div>
         <div class="col-xs-6 col-sm-4 col-md-3">
-            <a class="sponsor-logo" href="#" target="_blank">
+            <a class="sponsor-logo" href="#" target="_blank" title="Silver Sponsor">
                 <img src="img/sponsors/placeholder.png" alt="Silver Sponsor Logo">
             </a>
         </div>
     </div>
 
-    <hr>
+    <hr class="line">
 
     <!-- CTA -->
     <p style="color:black;">
@@ -112,41 +118,70 @@
 
 </div>
 
-<!-- ================= STYLES (INLINE SAFE) ================= -->
+<!-- ================= STYLES (ALL-IN-ONE, PAGE SAFE) ================= -->
 <style>
+/* ----- Make this page feel like the rest of the site ----- */
+.bodytext { font-size: 175%; } /* matches your site-wide body sizing */
+
+/* ----- Navbar stability fix (prevents “rearrange/jump”) ----- */
+.navbar,
+.navbar .navbar-nav > li > a,
+.navbar .navbar-brand {
+    height: 50px;
+    line-height: 50px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.navbar i { line-height: 50px; }
+
+/* ----- Active page highlights white (Sponsors tab) ----- */
+.navbar .nav > li.active > a,
+.navbar .nav > li.active > a:hover,
+.navbar .nav > li.active > a:focus {
+    color: white !important;
+    background-color: transparent;
+    font-weight: 700;
+    border-bottom: 3px solid white;
+}
+
+/* ----- Tier cards ----- */
 .tier {
     border: 1px solid #e8e8e8;
     border-radius: 10px;
     padding: 15px;
     margin-bottom: 15px;
-    background-color: rgba(255,255,255,0.95);
+    background-color: rgba(255,255,255,0.92);
     min-height: 260px;
 }
+.tier ul { padding-left: 18px; }
 
-.tier ul {
-    padding-left: 18px;
+.tier-title {
+    text-align: center;
+    font-weight: 700;
+    margin-top: 0;
 }
+.tier-silver { color: #6c7a89; }
+.tier-gold   { color: #f39c12; }
+.tier-plat   { color: #34495e; }
 
-.sponsor-grid {
-    margin-top: 10px;
-}
+/* ----- Sponsor logo grid ----- */
+.sponsor-grid { margin-top: 10px; }
 
 .sponsor-logo {
-    background: rgba(255,255,255,0.95);
+    background: rgba(255,255,255,0.92);
     border: 1px solid #e8e8e8;
     border-radius: 10px;
     padding: 12px;
     margin-bottom: 15px;
     height: 90px;
-
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
 .sponsor-logo img {
     max-height: 55px;
     max-width: 100%;
     object-fit: contain;
 }
 </style>
+<li class="active"><a href="sponsors.html">Sponsors</a></li>
