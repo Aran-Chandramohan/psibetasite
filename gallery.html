@@ -45,14 +45,16 @@
             max-height: 200px;
             padding: 5px;
             /* fill, contain, cover, scale-down : use whichever you like */
-            object-fit: contain;
-            opacity: 0.9;
+            object-fit: cover;
+            border-radius: 12px;
+            opacity: 0.95;
             cursor: pointer;
-            transition: transform .2s;
+            transition: transform .18s ease, box-shadow .18s ease, opacity .18s ease;
         }
         #gallery img:hover{
             opacity: 1;
-            transform: scale(1.5);
+            transform: scale(1.08);
+            box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
             z-index: 9999;
         }
  
