@@ -289,3 +289,64 @@ body p {
 .tier ul {
     padding-left: 18px;
 }
+
+/* ================= CORPORATE SPONSORSHIP ================= */
+
+/* Tier cards */
+.tier {
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: rgba(255,255,255,0.92);
+    min-height: 260px;
+}
+
+.tier ul {
+    padding-left: 18px;
+}
+
+/* Sponsor grids */
+.sponsor-grid {
+    margin-top: 10px;
+}
+
+/* Sponsor logo cards */
+.sponsor-logo {
+    background: rgba(255,255,255,0.92);
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 15px;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-decoration: none;
+}
+
+.sponsor-logo img {
+    max-height: 50px;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+/* Sponsor name under logo */
+.sponsor-inner {
+    width: 100%;
+    text-align: center;
+}
+
+.sponsor-name {
+    margin-top: 6px;
+    font-size: 13px;
+    font-weight: 700;
+    color: #444444;
+}
+
+/* Hover effect (matches site accent) */
+.sponsor-logo:hover {
+    border-color: #d23835;
+}
