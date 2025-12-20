@@ -350,3 +350,76 @@ body p {
 .sponsor-logo:hover {
     border-color: #d23835;
 }
+.sponsors-whitebox {
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+    padding: 25px 30px;
+    margin: 30px auto 40px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.08);
+}
+
+/* Mobile spacing */
+@media (max-width: 768px) {
+    .sponsors-whitebox {
+        padding: 18px 20px;
+    }
+}
+.featured-sponsor {
+    position: relative;
+}
+
+/* Ribbon */
+.featured-sponsor::before {
+    content: "FEATURED SPONSOR";
+    position: absolute;
+    top: 18px;
+    left: -45px;
+    transform: rotate(-45deg);
+
+    background-color: #efbf04; /* Gold */
+    color: #000;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 1px;
+
+    padding: 6px 50px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+    z-index: 5;
+}
+
+/* Make sure ribbon doesn't overflow weirdly */
+.featured-sponsor {
+    overflow: hidden;
+}
+
+.sponsor-section {
+    background-color: rgba(255, 255, 255, 0.97);
+    border-radius: 10px;
+    padding: 20px 25px;
+    margin-bottom: 25px;
+}
+ 
+.featured-sponsor {
+    position: relative;
+    overflow: hidden; /* keeps ribbon clean */
+}
+
+/* Ribbon */
+.featured-sponsor::before {
+    content: "FEATURED SPONSOR";
+    position: absolute;
+    top: 18px;
+    left: -45px;
+    transform: rotate(-45deg);
+
+    background-color: #efbf04; /* Gold */
+    color: #000;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+    padding: 6px 50px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.25);
+    z-index: 10;
+}
