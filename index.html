@@ -99,36 +99,37 @@
             <h3> The Nation&#39;s Oldest and Foremost<BR>
 Fraternity for Engineers.</h3>
 
-<div id="photoCarousel" class="carousel slide" data-ride="carousel">
+<!-- IMAGE CAROUSEL (with spacing + full width) -->
+<div class="carousel-spacer">
+  <div class="container-fluid" style="padding:0;">
+    <div id="photoCarousel" class="carousel slide" data-ride="carousel">
 
-  <!-- Indicators (dots) -->
-  <ol class="carousel-indicators">
-    <li data-target="#photoCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#photoCarousel" data-slide-to="1"></li>
-    <li data-target="#photoCarousel" data-slide-to="2"></li>
-  </ol>
+      <!-- Images -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="img/carousel/C1.jpg" class="img-responsive center-block">
+        </div>
+        <div class="item">
+          <img src="img/carousel/C2.jpg" class="img-responsive center-block">
+        </div>
+        <div class="item">
+          <img src="img/carousel/C3.jpg" class="img-responsive center-block">
+        </div>
+      </div>
 
-  <!-- Images -->
-  <div class="carousel-inner">
-    <div class="item active">
-      <img src="img/carousel/C1.jpg" class="img-responsive center-block">
-    </div>
-    <div class="item">
-      <img src="img/carousel/C2.jpg" class="img-responsive center-block">
-    </div>
-    <div class="item">
-      <img src="img/carousel/C3.jpg" class="img-responsive center-block">
+      <!-- Controls -->
+      <a class="left carousel-control" href="#photoCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="right carousel-control" href="#photoCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+
     </div>
   </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#photoCarousel" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-  </a>
-  <a class="right carousel-control" href="#photoCarousel" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
 </div>
+<!-- END IMAGE CAROUSEL -->
+
 
 
 
