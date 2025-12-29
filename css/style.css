@@ -428,3 +428,72 @@ body p {
   max-height: 500px;
   object-fit: cover;
 }
+
+
+
+
+/* ===== Tier-specific sponsor layouts ===== */
+
+/* Base sponsor card sizing (default / Bronze) */
+.sponsor-logo {
+  background: rgba(255,255,255,0.97);
+  border: 1px solid #e8e8e8;
+  border-radius: 10px;
+  padding: 12px;
+  margin-bottom: 15px;
+  height: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.sponsor-logo img {
+  max-height: 50px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.sponsor-inner { width: 100%; text-align: center; }
+.sponsor-name { margin-top: 6px; font-size: 13px; font-weight: 700; color: #444; }
+
+/* --- Make higher tiers larger --- */
+.sponsor-logo.platinum {
+  height: 140px;
+  padding: 18px;
+}
+.sponsor-logo.platinum img { max-height: 70px; }
+.sponsor-logo.platinum .sponsor-name { font-size: 15px; }
+
+.sponsor-logo.gold {
+  height: 120px;
+  padding: 16px;
+}
+.sponsor-logo.gold img { max-height: 60px; }
+.sponsor-logo.gold .sponsor-name { font-size: 14px; }
+
+.sponsor-logo.silver {
+  height: 105px;
+  padding: 12px;
+}
+.sponsor-logo.silver img { max-height: 52px; }
+
+/* Bronze stays default sizing */
+
+/* ===== 5-per-row grid for Bootstrap 3 ===== */
+/* Bootstrap 3 doesn't have a col-md-? for 5 columns, so we custom it */
+.sponsor-col-5 {
+  float: left;
+  width: 20%;          /* 5 per row */
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Responsive fallbacks */
+@media (max-width: 991px) { /* tablets */
+  .sponsor-col-5 { width: 33.333%; } /* 3 per row */
+}
+@media (max-width: 767px) { /* phones */
+  .sponsor-col-5 { width: 50%; } /* 2 per row */
+}
