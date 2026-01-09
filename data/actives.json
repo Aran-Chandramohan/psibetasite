@@ -280,7 +280,8 @@
       "pin": "772",
       "pledge_name": "Scandoval",
       "pledge_class": "Psi Gamma F'24",
-      "major": "Environmental"
+      "major": "Environmental",
+      "officer_letters":  "ZZ! 0x4CAEE"
     },
     {
       "img": "773.jpg",
@@ -387,7 +388,7 @@
       "major": "Biomedical"
     },
     {
-      "img": "787.jpg",
+      "img": "788.jpg",
       "name":"Anthea Walsh",
       "pin": "788",
       "pledge_name": "○△□",
@@ -395,7 +396,7 @@
       "major": "Architectural"
     },
     {
-      "img": "787.jpg",
+      "img": "789.jpg",
       "name":"Aydin Chowdhury",
       "pin": "789",
       "pledge_name": "Brian Griffin",
@@ -403,15 +404,15 @@
       "major": "Electrical"
     },
     {
-      "img": "787.jpg",
-      "name":"Zach Wang",
+      "img": "790.jpg",
+      "name":"Zachary Wang",
       "pin": "790",
       "pledge_name": "Watergate Scandal",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Mechanical"
     },
     {
-      "img": "787.jpg",
+      "img": "791.jpg",
       "name":"Dylan Vu",
       "pin": "791",
       "pledge_name": "Mechanical",
@@ -419,7 +420,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "787.jpg",
+      "img": "792.jpg",
       "name":"Keala Minna-Choe",
       "pin": "792",
       "pledge_name": "The Winchester M1907 .351 cal",
@@ -427,7 +428,7 @@
       "major": "Civil"
     },
     {
-      "img": "787.jpg",
+      "img": "793.jpg",
       "name":"Joseph Romero",
       "pin": "793",
       "pledge_name": "A different animal but the same beast",
@@ -435,7 +436,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "787.jpg",
+      "img": "794.jpg",
       "name":"Isabella Tepedino",
       "pin": "794",
       "pledge_name": "Funny orange cat that hates Mondays",
@@ -443,7 +444,7 @@
       "major": "Petroleum"
     },
     {
-      "img": "787.jpg",
+      "img": "795.jpg",
       "name":"Angelina Rowley",
       "pin": "795",
       "pledge_name": "Absolute Cinema",
@@ -451,7 +452,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "787.jpg",
+      "img": "796.jpg",
       "name":"Jeena Ahuja",
       "pin": "796",
       "pledge_name": "SR-71 Blackbird",
@@ -459,7 +460,7 @@
       "major": "Civil"
     },
     {
-      "img": "787.jpg",
+      "img": "797.jpg",
       "name":"Connor Maul",
       "pin": "797",
       "pledge_name": "Triangle",
@@ -467,7 +468,7 @@
       "major": "Aerospace"
     },
     {
-      "img": "787.jpg",
+      "img": "798.jpg",
       "name":"Ruben Gomez",
       "pin": "799",
       "pledge_name": "Sigma Goku Meme",
@@ -475,7 +476,7 @@
       "major": "Electrical"
     },
     {
-      "img": "787.jpg",
+      "img": "799.jpg",
       "name":"Colin Carroll",
       "pin": "799",
       "pledge_name": "Pork Rolls",
@@ -483,7 +484,7 @@
       "major": "Chemical"
     },
     {
-      "img": "787.jpg",
+      "img": "800.jpg",
       "name":"Hieu Nguyen",
       "pin": "800",
       "pledge_name": "Crypto Rugpull",
@@ -491,7 +492,7 @@
       "major": "Electrical"
     },
     {
-      "img": "787.jpg",
+      "img": "801.jpg",
       "name":"Aran Chandramohan",
       "pin": "801",
       "pledge_name": "Obama Care",
@@ -499,7 +500,7 @@
       "major": "Electrical"
     },
     {
-      "img": "787.jpg",
+      "img": "802.jpg",
       "name":"Joel Arroyo",
       "pin": "802",
       "pledge_name": "Ragecage",
@@ -507,7 +508,7 @@
       "major": "Petroleum"
     },
     {
-      "img": "787.jpg",
+      "img": "803.jpg",
       "name":"Ashwin Anish",
       "pin": "803",
       "pledge_name": "A Uncanny Brands Bob Ross Toaster©",
@@ -515,7 +516,7 @@
       "major": "Electrical"
     },
     {
-      "img": "787.jpg",
+      "img": "missingface2.jpg",
       "name":"Arch Underwood",
       "pin": "804",
       "pledge_name": "White Dress by Kanye West",
@@ -523,7 +524,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "787.jpg",
+      "img": "805.jpg",
       "name":"Jessie Farbisz",
       "pin": "805",
       "pledge_name": "Lickitung",
