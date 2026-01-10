@@ -497,3 +497,10 @@ body p {
 @media (max-width: 767px) { /* phones */
   .sponsor-col-5 { width: 50%; } /* 2 per row */
 }
+.panel-title a:after {
+  content: " ▼";
+  float: right;
+}
+.panel-title a.collapsed:after {
+  content: " ▶";
+}
