@@ -503,34 +503,4 @@ body p {
 }
 .panel-title a.collapsed:after {
   content: " ▶";
-  
-}
-.panel-title a:after {
-  color: #ffffff;
-}
-.panel-heading {
-  border-radius: 4px;
-}
-
-/* FAQ panel header color */
-.panel-heading {
-  background-color: #981311 !important;
-  color: #ffffff !important;
-}
-
-/* Question text (links) */
-.panel-heading a {
-  color: #ffffff !important;
-  text-decoration: none;
-}
-
-/* Hover effect */
-.panel-heading a:hover {
-  color: #f2f2f2 !important;
-  text-decoration: none;
-}
-
-/* Panel border cleanup */
-.panel {
-  border-color: #981311;
 }
