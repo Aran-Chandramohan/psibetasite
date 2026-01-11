@@ -662,8 +662,11 @@ body p {
 /* Shared image look (landscape 16:9) */
 .side-collage .collage-img {
   position: absolute;
-  width: 180px;          /* tweak */
-  height: 101px;         /* 16:9 */
+
+  width: clamp(220px, 14vw, 320px);  /* ← BIGGER */
+  aspect-ratio: 16 / 9;              /* keeps 1920×1080 shape */
+  height: auto;
+
   object-fit: cover;
   border-radius: 10px;
   border: 3px solid rgba(255,255,255,0.85);
@@ -671,6 +674,7 @@ body p {
   transform-origin: center;
   opacity: 0.98;
 }
+
 
 /* LEFT positions (some intentionally off-screen) */
 .left-collage .l1 { top: 3%;  left: -28px; transform: rotate(-10deg); }
