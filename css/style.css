@@ -886,3 +886,25 @@ body p {
   left: 0;
   transform: translate3d(0,0,0);
 }
+/* Kill the white wash overlay if it exists */
+.content-70::before {
+  content: none !important;
+}
+.content-70 {
+  background: transparent !important;
+}
+/* Remove white boxes from FAQ + panels */
+.faq-wrap,
+.panel-group,
+.panel,
+.panel-heading,
+.panel-body,
+.container,
+.container-fluid {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+.faq-toggle {
+  background: #981311 !important;
+  color: #fff !important;
+}
