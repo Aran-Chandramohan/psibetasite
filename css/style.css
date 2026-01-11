@@ -631,3 +631,8 @@ body p {
     padding: 25px 15px;
   }
 }
+.panel-heading .faq-toggle {
+  font-size: 24px;
+  padding: 22px 24px;   /* taller red bars */
+  font-weight: 600;
+}
