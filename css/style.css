@@ -903,3 +903,52 @@ body p {
   margin-bottom: 2vh;
   line-height: 1.65;
 }
+/* =========================
+   HERO: FADE THROUGH COLOR
+   ========================= */
+
+/* Fixed hero frame */
+.hero-carousel,
+.hero-carousel .carousel-inner,
+.hero-carousel .item {
+  height: 520px;
+  overflow: hidden;
+}
+
+/* Slide positioning */
+.hero-carousel .item {
+  position: relative;
+}
+
+/* Image fills slide */
+.hero-carousel .item img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* COLOR FADE LAYER */
+.hero-carousel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: #981311;          
+  opacity: 0;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity 0.8s ease-in-out;
+}
+
+/* Show color during transition */
+.carousel-colorfade.carousel-fading::before {
+  opacity: 1;
+}
+
+/* Ensure text stays above color */
+.hero-caption,
+.hero-overlay {
+  position: relative;
+  z-index: 3;
+}
