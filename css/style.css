@@ -746,89 +746,45 @@ body p {
   .side-collage { display: none; }
   .content-70 { width: 95vw; }
 }
-/* Make carousel a hero banner */
+/* =========================
+   HERO CAROUSEL (CLEAN)
+   ========================= */
+
+/* Fixed hero frame */
+.hero-carousel,
+.hero-carousel .carousel-inner,
+.hero-carousel .item {
+  height: 520px;       /* hero height */
+}
+
+.hero-carousel .carousel-inner {
+  overflow: hidden;    /* keeps transitions clean */
+}
+
+/* Make each slide a positioning context */
 .hero-carousel .item {
   position: relative;
 }
 
-/* Make images full width */
+/* Cover image perfectly (no gaps) */
 .hero-carousel .item img {
+  position: absolute;
+  inset: 0;
   width: 100%;
-  height: 520px;          /* adjust */
+  height: 100%;
   object-fit: cover;
+  display: block;
 }
 
-/* Dark overlay so white text pops */
+/* Optional: dark overlay to help readability (you can keep or remove) */
 .hero-overlay {
   position: absolute;
   inset: 0;
   background: rgba(0,0,0,0.35);
-}
-
-/* Text overlay */
-.hero-caption {
-  position: absolute;
-  left: 7%;
-  top: 50%;
-  transform: translateY(-50%);
-  color: #fff;
   z-index: 2;
-  max-width: 650px;
 }
 
-/* Title / subtitle styling */
-.hero-caption h1 {
-  font-size: 72px;
-  font-weight: 700;
-  margin: 0 0 10px 0;
-  text-shadow: 0 3px 10px rgba(0,0,0,0.45);
-}
-
-.hero-caption p {
-  font-size: 28px;
-  font-weight: 600;
-  margin: 0;
-  text-shadow: 0 3px 10px rgba(0,0,0,0.45);
-}
-
-/* Mobile */
-@media (max-width: 768px) {
-  .hero-carousel .item img { height: 340px; }
-  .hero-caption h1 { font-size: 42px; }
-  .hero-caption p { font-size: 18px; }
-}
-
-/* Hero carousel frame */
-.hero-carousel,
-.hero-carousel .carousel-inner,
-.hero-carousel .item {
-  height: 520px;              /* pick your hero height */
-}
-
-/* Critical: hide anything that slides outside */
-.hero-carousel .carousel-inner {
-  overflow: hidden;
-  background: #000;           /* prevents white flash */
-}
-
-/* Make the image cover the slide perfectly */
-.hero-carousel .item {
-  position: relative;
-  background: #000;           /* prevents white flash */
-}
-
-.hero-carousel .item img {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-  transform: translate(-50%, -50%);
-  display: block;
-}
-/* Text overlay container */
+/* Caption panel: white text with black background */
 .hero-caption {
   position: absolute;
   left: 7%;
@@ -836,63 +792,77 @@ body p {
   transform: translateY(-50%);
   z-index: 3;
 
-  color: #fff;                         /* white text */
-  background: rgba(0,0,0,0.6);         /* black background */
+  color: #fff;
+  background: rgba(0,0,0,0.6);
   padding: 28px 34px;
   border-radius: 6px;
-
   max-width: 650px;
 }
 
-/* Headline */
 .hero-caption h1 {
-  color: #fff;
+  margin: 0 0 10px 0;
   font-size: 72px;
   font-weight: 700;
-  margin: 0 0 10px 0;
+  color: #fff;
 }
 
-/* Subtitle */
 .hero-caption p {
-  color: #fff;
+  margin: 0;
   font-size: 28px;
   font-weight: 600;
-  margin: 0;
+  color: #fff;
 }
-@media (max-width: 768px) {
-  .hero-caption h1 { font-size: 40px; }
-  .hero-caption p  { font-size: 18px; }
-  .hero-caption    { padding: 18px 20px; }
-}
-/* Fade carousel instead of slide (Bootstrap 3) */
+
+/* TRUE crossfade (image->image, no fade-to-black) */
 .carousel-fade .carousel-inner .item {
   opacity: 0;
   transition: opacity 1s ease-in-out;
-  left: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 .carousel-fade .carousel-inner .active {
   opacity: 1;
+  position: relative;
 }
 
+/* Keep both slides visible during overlap */
 .carousel-fade .carousel-inner .active.left,
-.carousel-fade .carousel-inner .active.right {
-  opacity: 0;
+.carousel-fade .carousel-inner .active.right,
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev {
+  opacity: 1;
 }
 
-/* Prevent slide movement */
+/* Disable sliding movement */
 .carousel-fade .carousel-inner .next,
 .carousel-fade .carousel-inner .prev {
   left: 0;
   transform: translate3d(0,0,0);
 }
+
+/* Mobile sizing */
+@media (max-width: 768px) {
+  .hero-carousel,
+  .hero-carousel .carousel-inner,
+  .hero-carousel .item {
+    height: 340px;
+  }
+
+  .hero-caption {
+    padding: 18px 20px;
+    max-width: 90%;
+  }
+
+  .hero-caption h1 { font-size: 40px; }
+  .hero-caption p  { font-size: 18px; }
+}
 /* Kill the white wash overlay if it exists */
-.content-70::before {
-  content: none !important;
-}
-.content-70 {
-  background: transparent !important;
-}
+.content-70::before { content: none !important; }
+.content-70 { background: transparent !important; }
+
 /* Remove white boxes from FAQ + panels */
 .faq-wrap,
 .panel-group,
@@ -904,6 +874,7 @@ body p {
   background: transparent !important;
   box-shadow: none !important;
 }
+
 .faq-toggle {
   background: #981311 !important;
   color: #fff !important;
