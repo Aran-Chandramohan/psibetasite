@@ -636,3 +636,61 @@ body p {
   padding: 22px 24px;   /* taller red bars */
   font-weight: 600;
 }
+
+/* Side columns become collage canvases */
+.side-collage {
+  width: 15vw;
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden; /* crops images at the side edges */
+}
+
+/* Shared image look */
+.side-collage .collage-img {
+  position: absolute;
+  width: 145px;             /* tweak size */
+  height: auto;
+  border-radius: 10px;
+  border: 3px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+  transform-origin: center;
+  opacity: 0.98;
+}
+
+/* LEFT positions (some are intentionally off-screen with negative left) */
+.left-collage .l1 { top: 3%;  left: -28px; transform: rotate(-10deg); width: 150px; }
+.left-collage .l2 { top: 18%; left: 14px;  transform: rotate(7deg);  width: 135px; }
+.left-collage .l3 { top: 32%; left: -10px; transform: rotate(-4deg); width: 160px; }
+.left-collage .l4 { top: 50%; left: 22px;  transform: rotate(11deg); width: 140px; }
+.left-collage .l5 { top: 66%; left: -22px; transform: rotate(-7deg); width: 155px; }
+.left-collage .l6 { top: 82%; left: 10px;  transform: rotate(5deg);  width: 145px; }
+
+/* RIGHT positions (some are intentionally off-screen with negative right) */
+.right-collage .r1 { top: 4%;  right: -30px; transform: rotate(10deg); width: 150px; }
+.right-collage .r2 { top: 20%; right: 12px;  transform: rotate(-6deg); width: 135px; }
+.right-collage .r3 { top: 34%; right: -12px; transform: rotate(4deg);  width: 165px; }
+.right-collage .r4 { top: 52%; right: 20px;  transform: rotate(-11deg);width: 140px; }
+.right-collage .r5 { top: 68%; right: -24px; transform: rotate(7deg);  width: 155px; }
+.right-collage .r6 { top: 84%; right: 8px;   transform: rotate(-5deg); width: 145px; }
+
+/* Optional: soften the collage so it doesn't overpower content */
+.side-collage::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.left-collage::after {
+  background: linear-gradient(to right, rgba(255,255,255,0.45), rgba(255,255,255,0));
+}
+
+.right-collage::after {
+  background: linear-gradient(to left, rgba(255,255,255,0.45), rgba(255,255,255,0));
+}
+
+/* Mobile: hide collages */
+@media (max-width: 992px) {
+  .side-collage { display: none; }
+  .content-70 { width: 95vw; }
+}
