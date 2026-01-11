@@ -551,3 +551,68 @@ body p {
 .panel-heading {
   cursor: pointer;
 }
+/* Your FAQ header color + text */
+.panel-heading {
+  background-color: #981311 !important;
+  padding: 0 !important;          /* so the link controls the clickable area */
+}
+
+.panel-heading .panel-title {
+  margin: 0;
+}
+
+/* Make the entire header area clickable */
+.panel-heading .faq-toggle {
+  display: block;
+  width: 100%;
+  padding: 18px 20px;             /* controls height + left/right spacing */
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+/* Hover on the whole header */
+.panel-heading .faq-toggle:hover,
+.panel-heading .faq-toggle:focus {
+  color: #ffffff !important;
+  text-decoration: none !important;
+  opacity: 0.95;
+}
+/* Make FAQ area wider than normal container, but still centered */
+.faq-wrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* Your header color */
+.panel-heading {
+  background-color: #981311 !important;
+  padding: 0 !important;     /* important: makes the whole bar clickable via the <a> */
+}
+
+/* Remove extra spacing */
+.panel-heading .panel-title {
+  margin: 0;
+}
+
+/* Make the entire header bar clickable + white text */
+.panel-heading .faq-toggle {
+  display: block;
+  width: 100%;
+  padding: 18px 20px;
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+/* Hover/focus */
+.panel-heading .faq-toggle:hover,
+.panel-heading .faq-toggle:focus {
+  color: #ffffff !important;
+  text-decoration: none !important;
+  opacity: 0.95;
+}
+
+/* Optional: match border to theme */
+.panel {
+  border-color: #981311;
+}
