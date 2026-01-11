@@ -616,3 +616,18 @@ body p {
 .panel {
   border-color: #981311;
 }
+/* Make this whole section 70% of the screen width */
+.content-70 {
+  width: 70vw;         /* 70% of viewport width */
+  max-width: 1200px;   /* prevents it from getting too wide on huge screens */
+  margin: 0 auto;      /* centers it */
+  padding: 40px 20px;
+}
+
+/* Mobile-friendly fallback */
+@media (max-width: 768px) {
+  .content-70 {
+    width: 95vw;
+    padding: 25px 15px;
+  }
+}
