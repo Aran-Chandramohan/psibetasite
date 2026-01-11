@@ -843,3 +843,18 @@ body p {
   .hero-caption p  { font-size: 18px; }
   .hero-caption    { padding: 18px 20px; }
 }
+/* Fade instead of slide (Bootstrap 3) */
+.carousel-fade .carousel-inner .item {
+  opacity: 0;
+  transition: opacity .8s ease-in-out;
+  left: 0 !important;
+}
+
+.carousel-fade .carousel-inner .active {
+  opacity: 1;
+}
+
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  opacity: 0;
+}
