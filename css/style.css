@@ -764,3 +764,70 @@ body p {
   .hero-caption h1 { font-size: 42px; }
   .hero-caption p { font-size: 18px; }
 }
+
+/* Hero carousel frame */
+.hero-carousel,
+.hero-carousel .carousel-inner,
+.hero-carousel .item {
+  height: 520px;              /* pick your hero height */
+}
+
+/* Critical: hide anything that slides outside */
+.hero-carousel .carousel-inner {
+  overflow: hidden;
+  background: #000;           /* prevents white flash */
+}
+
+/* Make the image cover the slide perfectly */
+.hero-carousel .item {
+  position: relative;
+  background: #000;           /* prevents white flash */
+}
+
+.hero-carousel .item img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
+  display: block;
+}
+/* Text overlay container */
+.hero-caption {
+  position: absolute;
+  left: 7%;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 3;
+
+  color: #fff;                         /* white text */
+  background: rgba(0,0,0,0.6);         /* black background */
+  padding: 28px 34px;
+  border-radius: 6px;
+
+  max-width: 650px;
+}
+
+/* Headline */
+.hero-caption h1 {
+  color: #fff;
+  font-size: 72px;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+}
+
+/* Subtitle */
+.hero-caption p {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 600;
+  margin: 0;
+}
+@media (max-width: 768px) {
+  .hero-caption h1 { font-size: 40px; }
+  .hero-caption p  { font-size: 18px; }
+  .hero-caption    { padding: 18px 20px; }
+}
