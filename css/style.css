@@ -657,40 +657,52 @@ body p {
   width: 70vw;
   max-width: 1200px;
   margin: 0 auto;
+  position: relative;
+  z-index: 5;   /* sits above images */
+  background: transparent;
 }
 
 /* Shared image look (landscape 16:9) */
 .side-collage .collage-img {
   position: absolute;
 
-  width: clamp(220px, 14vw, 320px);  /* ← BIGGER */
-  aspect-ratio: 16 / 9;              /* keeps 1920×1080 shape */
+  width: clamp(260px, 18vw, 360px);  /* BIG */
+  aspect-ratio: 16 / 9;
   height: auto;
 
   object-fit: cover;
-  border-radius: 10px;
-  border: 3px solid rgba(255,255,255,0.85);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
-  transform-origin: center;
-  opacity: 0.98;
+  border-radius: 12px;
+  border: 4px solid rgba(255,255,255,0.9);
+  box-shadow: 0 15px 35px rgba(0,0,0,0.28);
+
+  opacity: 0.95;
+  z-index: 1;  /* background layer */
+}
+
+.content-70::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255,255,255,0.92);
+  z-index: -1;
 }
 
 
 /* LEFT positions (some intentionally off-screen) */
-.left-collage .l1 { top: 3%;  left: -28px; transform: rotate(-10deg); }
-.left-collage .l2 { top: 18%; left: 14px;  transform: rotate(7deg);  width: 165px; height: 93px; }
-.left-collage .l3 { top: 32%; left: -10px; transform: rotate(-4deg); width: 195px; height: 110px; }
-.left-collage .l4 { top: 50%; left: 22px;  transform: rotate(11deg); width: 170px; height: 96px; }
-.left-collage .l5 { top: 66%; left: -22px; transform: rotate(-7deg); width: 190px; height: 107px; }
-.left-collage .l6 { top: 82%; left: 10px;  transform: rotate(5deg);  }
+.left-collage .l1 { top: 5%;  left: 60%; transform: rotate(-8deg); }
+.left-collage .l2 { top: 22%; left: 52%; transform: rotate(6deg); }
+.left-collage .l3 { top: 39%; left: 65%; transform: rotate(-4deg); }
+.left-collage .l4 { top: 56%; left: 50%; transform: rotate(9deg); }
+.left-collage .l5 { top: 73%; left: 62%; transform: rotate(-6deg); }
+.left-collage .l6 { top: 88%; left: 54%; transform: rotate(5deg); }
 
 /* RIGHT positions (some intentionally off-screen) */
-.right-collage .r1 { top: 4%;  right: -30px; transform: rotate(10deg); }
-.right-collage .r2 { top: 20%; right: 12px;  transform: rotate(-6deg); width: 165px; height: 93px; }
-.right-collage .r3 { top: 34%; right: -12px; transform: rotate(4deg);  width: 200px; height: 113px; }
-.right-collage .r4 { top: 52%; right: 20px;  transform: rotate(-11deg);width: 170px; height: 96px; }
-.right-collage .r5 { top: 68%; right: -24px; transform: rotate(7deg);  width: 190px; height: 107px; }
-.right-collage .r6 { top: 84%; right: 8px;   transform: rotate(-5deg); }
+.right-collage .r1 { top: 5%;  right: 60%; transform: rotate(8deg); }
+.right-collage .r2 { top: 22%; right: 52%; transform: rotate(-6deg); }
+.right-collage .r3 { top: 39%; right: 65%; transform: rotate(4deg); }
+.right-collage .r4 { top: 56%; right: 50%; transform: rotate(-9deg); }
+.right-collage .r5 { top: 73%; right: 62%; transform: rotate(6deg); }
+.right-collage .r6 { top: 88%; right: 54%; transform: rotate(-5deg); }
 
 /* Optional: soften the collage so it doesn't overpower content */
 .side-collage::after {
