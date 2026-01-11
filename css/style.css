@@ -813,35 +813,10 @@ body p {
   color: #fff;
 }
 
-/* TRUE crossfade (image->image, no fade-to-black) */
-.carousel-fade .carousel-inner .item {
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+.carousel-inner > .item {
+  transition: transform 0.8s ease-in-out;
 }
 
-.carousel-fade .carousel-inner .active {
-  opacity: 1;
-  position: relative;
-}
-
-/* Keep both slides visible during overlap */
-.carousel-fade .carousel-inner .active.left,
-.carousel-fade .carousel-inner .active.right,
-.carousel-fade .carousel-inner .next,
-.carousel-fade .carousel-inner .prev {
-  opacity: 1;
-}
-
-/* Disable sliding movement */
-.carousel-fade .carousel-inner .next,
-.carousel-fade .carousel-inner .prev {
-  left: 0;
-  transform: translate3d(0,0,0);
-}
 
 /* Mobile sizing */
 @media (max-width: 768px) {
@@ -951,4 +926,8 @@ body p {
 .hero-overlay {
   position: relative;
   z-index: 3;
+}
+
+.hero-carousel .item img {
+  display: block;
 }
