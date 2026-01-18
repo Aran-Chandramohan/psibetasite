@@ -396,14 +396,6 @@
       "major": "Architectural"
     },
     {
-      "img": "789.jpg",
-      "name":"Aydin Chowdhury",
-      "pin": "789",
-      "pledge_name": "Brian Griffin",
-      "pledge_class": "Epsilon Delta F'25",
-      "major": "Electrical"
-    },
-    {
       "img": "790.jpg",
       "name":"Zachary Wang",
       "pin": "790",
@@ -482,14 +474,6 @@
       "pledge_name": "Pork Rolls",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Chemical"
-    },
-    {
-      "img": "800.jpg",
-      "name":"Hieu Nguyen",
-      "pin": "800",
-      "pledge_name": "Crypto Rugpull",
-      "pledge_class": "Epsilon Delta F'25",
-      "major": "Electrical"
     },
     {
       "img": "801.jpg",
