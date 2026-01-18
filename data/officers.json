@@ -113,7 +113,7 @@
     {
       "img": "790.jpg",
       "name": "Zachary Wang",
-      "pin": "",
+      "pin": "790",
       "pledge_name": "Watergate Scandal",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Mechanical",
@@ -125,7 +125,7 @@
     {
       "img": "795.jpg",
       "name":"Angelina Rowley",
-      "pin": "",
+      "pin": "795",
       "pledge_name": "Absolute Cinema",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Mechanical",
@@ -147,7 +147,7 @@
     {
       "img": "792.jpg",
       "name":"Keala Minna-Choe",
-      "pin": "",
+      "pin": "792",
       "pledge_name": "The Winchester M1907 .351 cal",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Civil",
@@ -158,7 +158,7 @@
     {
       "img": "798.jpg",
       "name":"Ruben Gomez",
-      "pin": "",
+      "pin": "798",
       "pledge_name": "Sigma Goku Meme",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Electrical",
