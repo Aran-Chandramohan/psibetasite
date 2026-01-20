@@ -396,105 +396,98 @@
       "major": "Architectural"
     },
     {
-      "img": "790.jpg",
+      "img": "789.jpg",
       "name":"Zachary Wang",
-      "pin": "790",
+      "pin": "789",
       "pledge_name": "Watergate Scandal",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Mechanical"
     },
     {
-      "img": "791.jpg",
+      "img": "790.jpg",
       "name":"Dylan Vu",
-      "pin": "791",
+      "pin": "790",
       "pledge_name": "Mechanical",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Mechanical"
     },
     {
-      "img": "792.jpg",
+      "img": "791.jpg",
       "name":"Keala Minna-Choe",
-      "pin": "792",
+      "pin": "791",
       "pledge_name": "The Winchester M1907 .351 cal",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Civil"
     },
     {
-      "img": "793.jpg",
+      "img": "792.jpg",
       "name":"Joseph Romero",
-      "pin": "793",
+      "pin": "792",
       "pledge_name": "A different animal but the same beast",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Mechanical"
     },
     {
-      "img": "794.jpg",
+      "img": "793.jpg",
       "name":"Isabella Tepedino",
-      "pin": "794",
+      "pin": "793",
       "pledge_name": "Funny orange cat that hates Mondays",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Petroleum"
     },
     {
-      "img": "795.jpg",
+      "img": "794.jpg",
       "name":"Angelina Rowley",
-      "pin": "795",
+      "pin": "794",
       "pledge_name": "Absolute Cinema",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Mechanical"
     },
     {
-      "img": "796.jpg",
+      "img": "795.jpg",
       "name":"Jeena Ahuja",
-      "pin": "796",
+      "pin": "795",
       "pledge_name": "SR-71 Blackbird",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Civil"
     },
     {
-      "img": "797.jpg",
+      "img": "796.jpg",
       "name":"Connor Maul",
-      "pin": "797",
+      "pin": "796",
       "pledge_name": "Triangle",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Aerospace"
     },
     {
-      "img": "798.jpg",
+      "img": "797.jpg",
       "name":"Ruben Gomez",
-      "pin": "798",
+      "pin": "797",
       "pledge_name": "Sigma Goku Meme",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Electrical"
     },
     {
-      "img": "799.jpg",
+      "img": "798.jpg",
       "name":"Colin Carroll",
-      "pin": "799",
+      "pin": "798",
       "pledge_name": "Pork Rolls",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Chemical"
     },
     {
-      "img": "801.jpg",
+      "img": "799.jpg",
       "name":"Aran Chandramohan",
-      "pin": "801",
+      "pin": "809",
       "pledge_name": "Obama Care",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Electrical"
     },
+
     {
-      "img": "802.jpg",
-      "name":"Joel Arroyo",
-      "pin": "802",
-      "pledge_name": "Ragecage",
-      "pledge_class": "Epsilon Delta F'25",
-      "major": "Petroleum"
-    },
-    {
-      "img": "803.jpg",
+      "img": "800.jpg",
       "name":"Ashwin Anish",
-      "pin": "803",
+      "pin": "800",
       "pledge_name": "A Uncanny Brands Bob Ross Toaster©",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Electrical"
@@ -502,20 +495,27 @@
     {
       "img": "missingface2.jpg",
       "name":"Arch Underwood",
-      "pin": "804",
+      "pin": "801",
       "pledge_name": "White Dress by Kanye West",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Mechanical"
     },
     {
-      "img": "805.jpg",
+      "img": "802.jpg",
       "name":"Jessie Farbisz",
-      "pin": "805",
+      "pin": "802",
       "pledge_name": "Lickitung",
       "pledge_class": "Epsilon Delta F'25",
       "major": "Environmental"
+    },
+    {
+      "img": "803.jpg",
+      "name":"Joel Arroyo",
+      "pin": "803",
+      "pledge_name": "Ragecage",
+      "pledge_class": "Epsilon Delta F'25",
+      "major": "Petroleum"
     }
-    
     
   ]
 }
