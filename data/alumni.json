@@ -4652,6 +4652,38 @@
             "officer_letters": "0x5280"
         },
         {
+            "img": "705.jpg",
+            "name": "Sophie Hanks",
+            "pin": "705",
+            "pledge_name": "The Little Engine That Could",
+            "pledge_class": "Tau Gamma F'22",
+            "major": "Electrical"
+        },
+        {
+            "img": "706.jpg",
+            "name": "Samantha Lee",
+            "pin": "706",
+            "pledge_name": "The Babadook",
+            "pledge_class": "Tau Gamma F'22",
+            "major": "Chemical"
+        },
+        {
+            "img": "707.jpg",
+            "name": "Aidan McGinnis",
+            "pin": "707",
+            "pledge_name": "$AMZN",
+            "pledge_class": "Tau Gamma F'22",
+            "major": "Mechanical"
+        },
+        {
+            "img": "708.jpg",
+            "name": "Ami Bhakta",
+            "pin": "708",
+            "pledge_name": "The Sistine Chapel",
+            "pledge_class": "Tau Gamma F'22",
+            "major": "Civil"
+        },
+        {
             "img": "709.jpg",
             "name": "Andrew Cook",
             "pin": "709",
