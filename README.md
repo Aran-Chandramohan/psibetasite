@@ -1,4 +1,5 @@
-psibeta
+## NOTE: this document, whill still helpfull is not the most up to date file. look at the transision doc in the google drive or notion for the most up to date information.
+psibeta  
 =======
 
 Website for the Psi Beta chapter of the national Theta Tau fraternity.
