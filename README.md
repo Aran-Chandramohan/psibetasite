@@ -78,3 +78,4 @@ Template for Rush is as follows:
         },
 
 The google maps for each event does need to be updated if the events are in different locations. You can always move around events that'll be pretty common.
+bvfvvgvgvgvgvgv
