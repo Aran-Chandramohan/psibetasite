@@ -11,14 +11,14 @@ h1 {
     width: 380px; /*modify this to make officer data fit*/
     padding: 10px 10px 10px 10px;
     margin: 10px 10px 20px 10px;
-    background-color: rgba(158, 211, 248, 0.4);
+    background-color: rgba(139, 0, 0, 0.4);
     border-radius: 10px;
 }
 
 .officer-pos {
     display: block;
     font-weight: bold;
-    color: #444444;
+    color: #D4AF37;
     text-align: center;
     margin-top: -10px;
     margin-bottom: 5px;
@@ -30,11 +30,16 @@ h1 {
     vertical-align: middle;
     margin-right: 15px;
     margin-bottom: 15px;
+    border: 3px solid #D4AF37;
+}
+
+.officer-img.img-thumbnail {
+    border: 3px solid #D4AF37;
 }
 
 .officer-ul {
     display: inline-block;
-    color: #444444;
+    color: rgba(139, 0, 0, 0.4);
     vertical-align: middle;
     list-style: none;
     padding-left: 0px;
