@@ -11,7 +11,7 @@ h1 {
     width: 380px; /*modify this to make officer data fit*/
     padding: 10px 10px 10px 10px;
     margin: 10px 10px 20px 10px;
-    background-color: rgba(139, 0, 0, 0.4);
+    background-color: #A13A2F;
     border-radius: 10px;
 }
 
@@ -39,7 +39,7 @@ h1 {
 
 .officer-ul {
     display: inline-block;
-    color: rgba(139, 0, 0, 0.4);
+    color: #A13A2F;
     vertical-align: middle;
     list-style: none;
     padding-left: 0px;
