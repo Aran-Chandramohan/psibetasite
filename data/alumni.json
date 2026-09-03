@@ -4660,6 +4660,24 @@
             "major": "Electrical"
         },
         {
+            "img": "705.jpg",
+            "name": "Leia Das",
+            "pin": "705",
+            "pledge_name": "September 20, 2019",
+            "pledge_class": "Tau Gamma F'22",
+            "major": "Environmental",
+            "officer_letters": "VV! Y!"
+        },
+        {
+            "img": "706.jpg",
+            "name": "Zoe Rose",
+            "pin": "706",
+            "pledge_name": "Muik & Sandy",
+            "pledge_class": "Tau Gamma F'22",
+            "major": "Chemical",
+            "officer_letters": "VV! YY!"
+        },
+        {
             "img": "706.jpg",
             "name": "Samantha Lee",
             "pin": "706",
@@ -4863,6 +4881,15 @@
             "major": "Chemical",
             "officer_letters": "0x0000"
         },
+        {
+            "img": "738.jpg",
+            "name": "V Dharmalingam",
+            "pin": "738",
+            "pledge_name": "Is water wet?",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Chemical",
+            "officer_letters": "TT! 0x76"
+        },
          {
             "img": "739.jpg",
             "name": "Diyala Bera",
@@ -4897,6 +4924,14 @@
             "major": "Mechanical"
         },
         {
+            "img": "missingface2.jpg",
+            "name": "Mia Bar-Yadin",
+            "pin": "743",
+            "pledge_name": "Perfectly Balanced, As All Things Should Be.",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Civil"
+        },
+        {
             "img": "744.jpg",
             "name": "Tejoo Kalikiri",
             "pin": "744",
@@ -4922,12 +4957,36 @@
             "major": "Aerospace"
         },
         {
+            "img": "747.jpg",
+            "name": "Jess Cutrufello",
+            "pin": "747",
+            "pledge_name": "Padfoot",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Biomedical"
+        },
+        {
             "img": "748.jpg",
             "name": "Vanessa Brooks",
             "pin": "748",
             "pledge_name": "Pinto XXVII",
             "pledge_class": "Phi Gamma F'23",
             "major": "Civil"
+        },
+        {
+            "img": "751.jpg",
+            "name": "Isabel McIntyre",
+            "pin": "751",
+            "pledge_name": "Bilbo Baggins",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Petroleum"
+        },
+        {
+            "img": "752.jpg",
+            "name": "Austin Gabriel",
+            "pin": "752",
+            "pledge_name": "🅱️P Oil Spill™",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Aerospace"
         },
         {
             "img": "753.jpg",
@@ -4944,6 +5003,15 @@
             "pledge_name": "9001 Cameron Rd Ste 101",
             "pledge_class": "Chi Gamma S'24",
             "major": "Civil"
+        },
+        {
+            "img": "759.jpg",
+            "name":"Ana Paola Cerda",
+            "pin": "759",
+            "pledge_name": "Never eat soggy waffles",
+            "pledge_class": "Chi Gamma S'24",
+            "major": "Environmental",
+            "officer_letters": "U!"
         },
         {
             "img": "760.jpg",
@@ -4994,12 +5062,44 @@
             "major": "Environmental"
         },
         {
+            "img": "768.jpg",
+            "name":"Rohan Malhotra",
+            "pin": "768",
+            "pledge_name": "Hi Barbie",
+            "pledge_class": "Psi Gamma F'24",
+            "major": "Environmental"
+        },
+        {
+            "img": "773.jpg",
+            "name":"Parin Patel",
+            "pin": "773",
+            "pledge_name": "Zoo Wee Mama",
+            "pledge_class": "Psi Gamma F'24",
+            "major": "Electrical"
+        },
+        {
             "img": "776.jpg",
             "name": "Javier Ferrer Sánchez-Barcaiztegui",
             "pin": "776",
             "pledge_name": "Shecago",
             "pledge_class": "Psi Gamma F'24",
             "major": "Electrical"
+        },
+        {
+            "img": "781.jpg",
+            "name":"Adrian Aguilar",
+            "pin": "781",
+            "pledge_name": "🅱️lue Tea",
+            "pledge_class": "Omega Gamma S'25",
+            "major": "Civil"
+        },
+        {
+            "img": "802.jpg",
+            "name":"Jessie Farbisz",
+            "pin": "802",
+            "pledge_name": "Lickitung",
+            "pledge_class": "Epsilon Delta F'25",
+            "major": "Environmental"   
         }
     ]
 }
