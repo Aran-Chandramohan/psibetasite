@@ -29,7 +29,7 @@
       "officer_letters": "UU!"
     },
      {
-      "img": "734.jpg",
+      "img": "734A.jpg",
       "name": "Nathan Hunt",
       "pin": "734",
       "pledge_name": "Swiss Cheese",
@@ -55,7 +55,7 @@
       "officer_letters": "T!"
     },
     {
-      "img": "755.jpg",
+      "img": "755A.jpeg",
       "name":"Dylan Northeim",
       "pin": "755",
       "pledge_name": "Petey Piranha",
@@ -72,7 +72,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "757.jpg",
+      "img": "757A.jpg",
       "name":"Vansh Sharma",
       "pin": "757",
       "pledge_name": "ants in my pants",
@@ -88,7 +88,7 @@
       "major": "Civil"
     },
     {
-      "img": "766.jpg",
+      "img": "766A.jpeg",
       "name":"Bryan Liang",
       "pin": "766",
       "pledge_name": "You Don't Own Me",
@@ -202,7 +202,7 @@
       "major": "Civil"
     },
     {
-      "img": "785.jpg",
+      "img": "785A.jpg",
       "name":"Bobby Stephens III",
       "pin": "785",
       "pledge_name": "Family Guy Funny Moments #62",
@@ -218,7 +218,7 @@
       "major": "Biomedical"
     },
     {
-      "img": "788.jpeg",
+      "img": "788A.jpeg",
       "name":"Anthea Walsh",
       "pin": "788",
       "pledge_name": "○△□",
@@ -290,7 +290,7 @@
       "major": "Aerospace"
     },
     {
-      "img": "797.jpg",
+      "img": "797A.jpg",
       "name":"Ruben Gomez",
       "pin": "797",
       "pledge_name": "Sigma Goku Meme",
@@ -335,9 +335,121 @@
       "name":"Joel Arroyo",
       "pin": "803",
       "pledge_name": "Ragecage",
-      "pledge_class": "Epsilon Delta F'25",
+      "pledge_class": "Epsilon Delta S'26",
       "major": "Petroleum"
-    }
-    
+    },
+    {
+      "img": "804.jpg",
+      "name": "Shashank Nanjundiah",
+      "pin": "804",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Electrical"
+    },
+    {
+      "img": "805.jpg",
+      "name": "Isabella Yasemin Smith",
+      "pin": "805",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Electrical"
+    },
+    {
+      "img": "806.jpg",
+      "name": "Kenneth Tran",
+      "pin": "806",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Mechanical"
+    },
+    {
+      "img": "807.jpg",
+      "name": "Neerav Reddy Mula",
+      "pin": "807",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Electrical"
+    },
+    {
+      "img": "808.jpg",
+      "name": "Parth Parekh",
+      "pin": "808",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Mechanical"
+    },
+    {
+      "img": "809.jpg",
+      "name": "Lili Hanley",
+      "pin": "809",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Electrical"
+    },
+    {
+      "img": "810.jpg",
+      "name": "Grace Anne Parker",
+      "pin": "810",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Electrical"
+    },
+    {
+      "img": "811.jpg",
+      "name": "Devak Gopinath Jannu",
+      "pin": "811",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Electrical"
+    },
+    {
+      "img": "812.jpg",
+      "name": "Manish Chander",
+      "pin": "812",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Chemical"
+    },
+    {
+      "img": "813.jpg",
+      "name": "Peter Tibor Metcalf",
+      "pin": "813",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Chemical"
+    },
+    {
+      "img": "814.jpg",
+      "name": "Arjun Bhardwaj",
+      "pin": "814",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Electrical"
+    },
+    {
+      "img": "815.jpg",
+      "name": "Shrey Rajesh",
+      "pin": "815",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Geosystems"
+    },
+    {
+      "img": "816.jpg",
+      "name": "Talia Nava Pradiana",
+      "pin": "816",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Petroleum"
+    },
+    {
+      "img": "817.jpg",
+      "name": "Brian Alan Berman",
+      "pin": "817",
+      "pledge_name": "",
+      "pledge_class": "Zeta Delta S'26",
+      "major": "Civil"
+    } 
+
   ]
 }
