@@ -5047,6 +5047,22 @@
             "major": "Electrical"
         },
         {
+            "img": "778.jpg",
+            "name":"Chris Solis",
+            "pin": "778",
+            "pledge_name": "Dwayne the Rock Johnson",
+            "pledge_class": "Omega Gamma S'25",
+            "major": "Mechanical"
+        },
+        {
+            "img": "780.jpg",
+            "name":"Maria Marquez",
+            "pin": "780",
+            "pledge_name": "*Default Dance* Actual dance",
+            "pledge_class": "Omega Gamma S'25",
+            "major": "Petroleum"
+        },
+        {
             "img": "781.jpg",
             "name":"Adrian Aguilar",
             "pin": "781",
