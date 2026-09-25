@@ -24,7 +24,7 @@
 
 .rush-chair-box {
     box-sizing: content-box;
-    background-color: #e8e8e8;
+    background-color: #86251a;
     margin: 12px auto 40px auto;
     width: 350px;
     padding: 12px;
@@ -74,7 +74,29 @@
 }
 
 .fa-instagram {
-    color: #262626;
+    color: #DD2A7B;
+}
+
+.rush-title {
+    color: #FFFFFF;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.8);
+}
+
+.social-info {
+    color: #C9A227; /* Theta Tau gold */
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+}
+
+.rush-chairs-title {
+    color: #FFFFFF;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.8);
+}
+
+.social-links {
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 12px 20px;
+    border-radius: 10px;
 }
 
 .social-info {
