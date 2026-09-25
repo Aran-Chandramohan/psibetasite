@@ -16,7 +16,7 @@
       "pledge_name": "Swiss Cheese",
       "pledge_class": "Phi Gamma F'23",
       "major": "Civil",
-       "officer_letters": "V!"
+       "officer_letters": "VV! Z!"
     },
     {
       "img": "755A.jpeg",
@@ -25,7 +25,7 @@
       "pledge_name": "Petey Piranha",
       "pledge_class": "Chi Gamma S'24",
       "major": "Aerospace",
-      "officer_letters": "R!"
+      "officer_letters": "RR!"
     },
     {
       "img": "756.jpg",
@@ -33,7 +33,8 @@
       "pin": "756",
       "pledge_name": "Taxi's Here",
       "pledge_class": "Chi Gamma S'24",
-      "major": "Mechanical"
+      "major": "Mechanical",
+      "officer_letters":  "RR! XX!"
     },
     {
       "img": "757A.jpg",
@@ -41,7 +42,8 @@
       "pin": "757",
       "pledge_name": "ants in my pants",
       "pledge_class": "Chi Gamma S'24",
-      "major": "Biomedical"
+      "major": "Biomedical",
+      "officer_letters":  "W!"
     },    
     {
       "img": "762.jpg",
@@ -65,7 +67,8 @@
       "pin": "769",
       "pledge_name": "Gucci Flip Flops",
       "pledge_class": "Psi Gamma F'24",
-      "major": "Biomedical"
+      "major": "Biomedical",
+      "officer_letters":  "TT!"
     },    
     {
       "img": "770.jpg",
@@ -73,7 +76,8 @@
       "pin": "770",
       "pledge_name": "Trisha Paytas",
       "pledge_class": "Psi Gamma F'24",
-      "major": "Mechanical"
+      "major": "Mechanical",
+      "officer_letters":  "VV!"
     },    
     {
       "img": "771.jpg",
@@ -99,7 +103,8 @@
       "pin": "774",
       "pledge_name": "🅱️ig 🅱️en",
       "pledge_class": "Psi Gamma F'24",
-      "major": "Petroleum"
+      "major": "Petroleum",
+      "officer_letters":  "Y!"
     }, 
     {
       "img": "775.jpg",
@@ -107,7 +112,8 @@
       "pin": "775",
       "pledge_name": "Whateva I do what I want",
       "pledge_class": "Psi Gamma F'24",
-      "major": "Mechanical"
+      "major": "Mechanical",
+      "officer_letters":  "0x0"
     },
     {
       "img": "777.jpg",
@@ -115,7 +121,8 @@
       "pin": "777",
       "pledge_name": "Aviation",
       "pledge_class": "Psi Gamma F'24",
-      "major": "Mechanical"
+      "major": "Mechanical",
+      "officer_letters":  "WW!"
     },
     {
       "img": "779.jpg",
@@ -155,7 +162,8 @@
       "pin": "785",
       "pledge_name": "Family Guy Funny Moments #62",
       "pledge_class": "Omega Gamma S'25",
-      "major": "Chemical"
+      "major": "Chemical",
+      "officer_letters":  "RR! X!"
     },
     {
       "img": "787.jpg",
@@ -163,7 +171,8 @@
       "pin": "787",
       "pledge_name": "Esnupi",
       "pledge_class": "Omega Gamma S'25",
-      "major": "Biomedical"
+      "major": "Biomedical",
+      "officer_letters":  "UU!"
     },
     {
       "img": "788A.jpeg",
@@ -171,7 +180,8 @@
       "pin": "788",
       "pledge_name": "○△□",
       "pledge_class": "Epsilon Delta F'25",
-      "major": "Architectural"
+      "major": "Architectural",
+      "officer_letters":  "U!"
     },
     {
       "img": "789U2.jpg",
@@ -179,7 +189,8 @@
       "pin": "789",
       "pledge_name": "Watergate Scandal",
       "pledge_class": "Epsilon Delta F'25",
-      "major": "Mechanical"
+      "major": "Mechanical",
+      "officer_letters":  "R!"
     },
     {
       "img": "790U2.jpg",
@@ -235,7 +246,8 @@
       "pin": "796",
       "pledge_name": "Triangle",
       "pledge_class": "Epsilon Delta F'25",
-      "major": "Aerospace"
+      "major": "Aerospace",
+      "officer_letters":  "V!"
     },
     {
       "img": "797A.jpg",
@@ -243,7 +255,8 @@
       "pin": "797",
       "pledge_name": "Sigma Goku Meme",
       "pledge_class": "Epsilon Delta F'25",
-      "major": "Electrical"
+      "major": "Electrical",
+      "officer_letters":  "T!"
     },
     {
       "img": "798.jpg",
@@ -259,7 +272,8 @@
       "pin": "799",
       "pledge_name": "Obama Care",
       "pledge_class": "Epsilon Delta F'25",
-      "major": "Electrical"
+      "major": "Electrical",
+      "officer_letters":  "0x4152"
     },
 
     {
