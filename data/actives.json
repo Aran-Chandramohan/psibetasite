@@ -1,15 +1,6 @@
 {
   "actives": [
     {
-      "img": "676.jpg",
-      "name": "Ashton Cole",
-      "pin": "676",
-      "pledge_name": "Dr Pepper Museum & Free Enterprise Institute",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Aerospace",
-      "officer_letters": "RR! VV!"
-    },
-    {
       "img": "707.jpg",
       "name": "Aaron Spicker",
       "pin": "707",
@@ -363,7 +354,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "807.jpg",
+      "img": "807.jpeg",
       "name": "Neerav Reddy Mula",
       "pin": "807",
       "pledge_name": "",
