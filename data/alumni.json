@@ -4843,20 +4843,12 @@
         },
         {
             "img": "733.jpg",
-            "name": "Mohammed Alamoudi",
+            "name": "Carolina Soares",
             "pin": "733",
-            "pledge_name": "23andMe",
-            "pledge_class": "Phi Gamma F'23",
-            "major": "Biomedical"
-        },
-        {
-            "img": "735.jpg",
-            "name": "Diyala Bera",
-            "pin": "735",
-            "pledge_name": "chick hicks",
+            "pledge_name": "AMF",
             "pledge_class": "Phi Gamma F'23",
             "major": "Chemical",
-            "officer_letters": "WW!"
+            "officer_letters": "UU!"
         },
         {
             "img": "736.jpg",
@@ -4867,37 +4859,55 @@
             "major": "Civil"
         },
         {
-            "img": "738.jpg",
-            "name": "Jess Cutrufello",
-            "pin": "738",
-            "pledge_name": "Padfoot",
+            "img": "737.jpg",
+            "name": "Akhila Rajesh",
+            "pin": "737",
+            "pledge_name": "Fig Newton",
             "pledge_class": "Phi Gamma F'23",
-            "major": "Biomedical"
+            "major": "Chemical",
+            "officer_letters": "0x0000"
         },
         {
-            "img": "740.jpg",
+            "img": "738.jpg",
             "name": "V Dharmalingam",
-            "pin": "740",
+            "pin": "738",
             "pledge_name": "Is water wet?",
             "pledge_class": "Phi Gamma F'23",
             "major": "Chemical",
             "officer_letters": "TT! 0x76"
         },
         {
-            "img": "741.jpg",
-            "name": "Jacobé Ellison",
-            "pin": "741",
-            "pledge_name": "Paper Straws",
+            "img": "739.jpg",
+            "name": "Diyala Bera",
+            "pin": "739",
+            "pledge_name": "chick hicks",
             "pledge_class": "Phi Gamma F'23",
-            "major": "Mechanical"
+            "major": "Chemical",
+            "officer_letters": "WW!"
         },
         {
-            "img": "742.jpg",
+            "img": "740.jpg",
+            "name": "Mohammed Alamoudi",
+            "pin": "740",
+            "pledge_name": "23andMe",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Biomedical"
+        },
+        {
+            "img": "741.jpg",
             "name": "Farrah Faheem",
-            "pin": "742",
+            "pin": "741",
             "pledge_name": "rip steve irwin❤️",
             "pledge_class": "Phi Gamma F'23",
             "major": "Civil"
+        },
+        {
+            "img": "742.jpg",
+            "name": "Jacobé Ellison",
+            "pin": "742",
+            "pledge_name": "Paper Straws",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Mechanical"
         },
         {
             "img": "missingface2.jpg",
@@ -4909,8 +4919,16 @@
         },
         {
             "img": "744.jpg",
-            "name": "Kat Harper",
+            "name": "Tejoo Kalikiri",
             "pin": "744",
+            "pledge_name": "MODERN JAM",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Electrical"
+        },
+        {
+            "img": "745.jpg",
+            "name": "Kat Harper",
+            "pin": "745",
             "pledge_name": "*Dolphin Sounds*",
             "pledge_class": "Phi Gamma F'23",
             "major": "Electrical",
@@ -4918,19 +4936,11 @@
         },
         {
             "img": "747.jpg",
-            "name": "Tejoo Kalikiri",
+            "name": "Jess Cutrufello",
             "pin": "747",
-            "pledge_name": "MODERN JAM",
+            "pledge_name": "Padfoot",
             "pledge_class": "Phi Gamma F'23",
-            "major": "Electrical"
-        },
-        {
-            "img": "749.jpg",
-            "name": "Isabel McIntyre",
-            "pin": "749",
-            "pledge_name": "Bilbo Baggins",
-            "pledge_class": "Phi Gamma F'23",
-            "major": "Petroleum"
+            "major": "Biomedical"
         },
         {
             "img": "750.jpg",
@@ -4942,12 +4952,11 @@
         },
         {
             "img": "751.jpg",
-            "name": "Akhila Rajesh",
+            "name": "Isabel McIntyre",
             "pin": "751",
-            "pledge_name": "Fig Newton",
+            "pledge_name": "Bilbo Baggins",
             "pledge_class": "Phi Gamma F'23",
-            "major": "Chemical",
-            "officer_letters": "0x0000"
+            "major": "Petroleum"
         },
         {
             "img": "752.jpg",
@@ -4956,6 +4965,23 @@
             "pledge_name": "🅱️P Oil Spill™",
             "pledge_class": "Phi Gamma F'23",
             "major": "Aerospace"
+        },
+        {
+            "img": "753.jpg",
+            "name": "Vignesh Winner",
+            "pin": "753",
+            "pledge_name": "Broadcast.com",
+            "pledge_class": "Phi Gamma F'23",
+            "major": "Computational"
+        },
+        {
+            "img": "754.jpg",
+            "name":"Alex Weideman",
+            "pin": "754",
+            "pledge_name": "Manhattan",
+            "pledge_class": "Chi Gamma S'24",
+            "major": "Mechanical",
+            "officer_letters": "TT!"
         },
         {
             "img": "758.jpg",

@@ -9,17 +9,7 @@
       "major": "Biomedical",
       "officer_letters": "UU! WW! XX!"
     },
-     
-     {
-      "img": "733.jpg",
-      "name": "Carolina Soares",
-      "pin": "733",
-      "pledge_name": "AMF",
-      "pledge_class": "Phi Gamma F'23",
-      "major": "Chemical",
-      "officer_letters": "UU!"
-    },
-     {
+    {
       "img": "734A.jpg",
       "name": "Nathan Hunt",
       "pin": "734",
@@ -27,23 +17,6 @@
       "pledge_class": "Phi Gamma F'23",
       "major": "Civil",
        "officer_letters": "V!"
-    },
-    {
-      "img": "750.jpg",
-      "name": "Vignesh Winner",
-      "pin": "750",
-      "pledge_name": "Broadcast.com",
-      "pledge_class": "Phi Gamma F'23",
-      "major": "Computational"
-    },
-    {
-      "img": "754.jpg",
-      "name":"Alex Weideman",
-      "pin": "754",
-      "pledge_name": "Manhattan",
-      "pledge_class": "Chi Gamma S'24",
-      "major": "Mechanical",
-      "officer_letters": "T!"
     },
     {
       "img": "755A.jpeg",
